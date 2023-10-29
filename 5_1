@@ -1,0 +1,11 @@
+kendaraan=["mobil","sedan","toyota","8000"]
+print("nama kendaraan",kendaraan[0])
+print("jenis kendaraan",kendaraan[1])
+print("merk kendaraan",kendaraan[2])
+print("cc kendaraan",kendaraan[3])
+kendaraan.insert(1,"putih")
+print("warna kendaraan",kendaraan[1])
+kendaraan.insert(2,"4")
+print("jumlah ban kendaraan",kendaraan[2])
+kendaraan.insert(3,"4.000.000")
+print("harga kendaraan",kendaraan[3])
